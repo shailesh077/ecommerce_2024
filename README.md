@@ -1,1 +1,1 @@
-# ecommerce_2024
+# ecommerce-backend-2024
